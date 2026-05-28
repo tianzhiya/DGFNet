@@ -19,7 +19,7 @@ If this work is helpful to you, please cite it as:
 ```
 
 @article{DGFNet,
-  title={DGFNet:An Learnable Dual-Guidance Frequency Decoupling Method for Infrared and Visible Image Fusion},
+  title={DGFNet:A Learnable Dual-Guidance Frequency Decoupling Method for Infrared and Visible Image Fusion},
 author={Quanquan Xiao ,etc},
 }
 ```
